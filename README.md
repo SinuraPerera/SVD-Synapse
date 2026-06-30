@@ -84,4 +84,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Sinura Damsath Perera
+SVD Group
