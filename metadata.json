@@ -1,0 +1,6 @@
+{
+  "name": "SVD Synapse",
+  "description": "An elegant, highly structured AI chat companion developed by SVD Group that delivers responsive, candid, and empathetic guidance formatted with absolute precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
